@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oven0\\source\\repos\\prost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A60EA9-B3EF-45FA-84F6-7456EFB63063}|StaticLib1\\StaticLib1.vcxproj|C:\\Users\\oven0\\source\\repos\\prost\\StaticLib1\\StaticLib1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69A60EA9-B3EF-45FA-84F6-7456EFB63063}|StaticLib1\\StaticLib1.vcxproj|solutionrelative:StaticLib1\\StaticLib1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A60EA9-B3EF-45FA-84F6-7456EFB63063}|StaticLib1\\StaticLib1.vcxproj|C:\\Users\\oven0\\source\\repos\\prost\\StaticLib1\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69A60EA9-B3EF-45FA-84F6-7456EFB63063}|StaticLib1\\StaticLib1.vcxproj|solutionrelative:StaticLib1\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C865A1F-2707-4D25-8EA5-18763F10644C}|Sample-Test1\\Sample-Test1.vcxproj|C:\\Users\\oven0\\source\\repos\\prost\\Sample-Test1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C865A1F-2707-4D25-8EA5-18763F10644C}|Sample-Test1\\Sample-Test1.vcxproj|solutionrelative:Sample-Test1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC4136A-ED11-4F61-A099-BBF5229FBE99}|prost\\prost.vcxproj|C:\\Users\\oven0\\source\\repos\\prost\\prost\\prost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4AC4136A-ED11-4F61-A099-BBF5229FBE99}|prost\\prost.vcxproj|solutionrelative:prost\\prost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\oven0\\source\\repos\\prost\\Sample-Test1\\test.cpp",
+              "RelativeDocumentMoniker": "Sample-Test1\\test.cpp",
+              "ToolTip": "C:\\Users\\oven0\\source\\repos\\prost\\Sample-Test1\\test.cpp",
+              "RelativeToolTip": "Sample-Test1\\test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-18T07:02:20.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\oven0\\source\\repos\\prost\\StaticLib1\\framework.h",
+              "RelativeDocumentMoniker": "StaticLib1\\framework.h",
+              "ToolTip": "C:\\Users\\oven0\\source\\repos\\prost\\StaticLib1\\framework.h",
+              "RelativeToolTip": "StaticLib1\\framework.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-18T07:03:07.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticLib1.cpp",
+              "DocumentMoniker": "C:\\Users\\oven0\\source\\repos\\prost\\StaticLib1\\StaticLib1.cpp",
+              "RelativeDocumentMoniker": "StaticLib1\\StaticLib1.cpp",
+              "ToolTip": "C:\\Users\\oven0\\source\\repos\\prost\\StaticLib1\\StaticLib1.cpp",
+              "RelativeToolTip": "StaticLib1\\StaticLib1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-18T07:02:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prost.cpp",
+              "DocumentMoniker": "C:\\Users\\oven0\\source\\repos\\prost\\prost\\prost.cpp",
+              "RelativeDocumentMoniker": "prost\\prost.cpp",
+              "ToolTip": "C:\\Users\\oven0\\source\\repos\\prost\\prost\\prost.cpp",
+              "RelativeToolTip": "prost\\prost.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-18T06:54:07.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
